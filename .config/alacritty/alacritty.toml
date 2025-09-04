@@ -1,0 +1,29 @@
+[general]
+live_config_reload = true
+
+[window]
+decorations = "Buttonless"
+opacity = 0.6
+blur = true
+startup_mode = "Windowed"
+padding.x = 5
+padding.y = 5
+
+[scrolling]
+history = 100000
+
+[font]
+size = 14.00
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+
+[mouse]
+hide_when_typing = true
+
+#
+#[keyboard]
+#bindings = [
+#{mods = "Command", key = "c", mode = "AppKeypad", action = "Copy"},
+#{mods = "Command", key = "v", mode = "AppKeypad", action = "Paste"},
+#]
